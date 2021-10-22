@@ -8,7 +8,7 @@ body{
     margin-bottom: 50px;
     max-width: 1600px;
     width: 90%;
-    background-image: url("img/fondo.jpg")  ;
+    background-image: url(img/fondo.jpg);
     background-size: contain;
 }
 img{
@@ -225,4 +225,3 @@ a.boton4:hover {
     margin-bottom: 50px;
     text-align: center;
 }
-
