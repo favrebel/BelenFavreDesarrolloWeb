@@ -14,6 +14,7 @@ btnCerrarPopup.addEventListener('click', function(e){
 	popup.classList.remove('active');
 });
 
+
 var input= document.getElementsByClassName('f-i');
 for (var i=0; i<input.length; i++) {
 	input[i].addEventListener('keyup', function(){
